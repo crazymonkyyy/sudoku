@@ -1,0 +1,1 @@
+I thought up a sudoku varent, when I looked for sudoku in dlang the version I saw as enterprize oo, so I'm writing my own... is messy, awful and will crash if looked at wrong.
